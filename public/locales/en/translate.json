@@ -1,8 +1,10 @@
 {
-  "about.opensource": "Welcome to win11React GHOST Edition.",
+  "about.opensource": "Welcome to win11React GHOST edition.",
   "about.notmicrosoft": "This project is not in anyway affiliated with Microsoft.",
   "about.title": "Win11React GHOST Edition v1.0a",
   "about.microsoftcopywrite": "Microsoft, Windows and Other demonstrated Products in this project are trademarks of the Microsoft group of companies",
+  "about.licensed": "",
+  "about.contact": "",
   "about.understand": "Yee, Continue",
   "store.featured-app": "Featured Apps",
   "store.featured-app.info": "Take your experience to new heights with these must-have apps",
