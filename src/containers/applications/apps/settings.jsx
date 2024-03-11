@@ -128,7 +128,7 @@ export const Settings = () => {
                                   className="device_img"
                                 />
                                 <div className="column_device">
-                                  <p className="device_name">GH❑ST PRIVACY</p>
+                                  <p className="device_name">GH❑𝛿T PRIVACY</p>
                                   <p className="device_model">special edition</p>
                                   <p className="device_rename">Rename</p>
                                 </div>
