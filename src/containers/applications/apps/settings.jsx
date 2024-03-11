@@ -128,8 +128,8 @@ export const Settings = () => {
                                   className="device_img"
                                 />
                                 <div className="column_device">
-                                  <p className="device_name">Liber-V</p>
-                                  <p className="device_model">NS14A8</p>
+                                  <p className="device_name">GH⁰ST Privacy</p>
+                                  <p className="device_model">edition</p>
                                   <p className="device_rename">Rename</p>
                                 </div>
                               </div>
